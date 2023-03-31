@@ -98,7 +98,8 @@
 }
 .grid-item-4{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;C:\Users\ll\Documents\Travel-Me\style.css
+C:\Users\ll\Documents\Travel-Me\index.html
     height: 40px; 
 }
 .grid-item-4 i{
@@ -107,9 +108,9 @@
 
 }
 .thirdgrid :nth-child(5){
-    width: 300px;
+    width: 320px;
 }
 .thirdgrid :nth-child(1){
-    width: 300px;
+    width: 320px;
     height: 300px;
 }
